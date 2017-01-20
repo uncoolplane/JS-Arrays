@@ -347,8 +347,6 @@ var data = [
     }
 ];
 
-
-
 /*A very clean way to pass around large LISTS (arrays) of COLLECTIONS (objects)
 of Data is to have an Array full of objects. */
 
